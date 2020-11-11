@@ -26,7 +26,7 @@ Blog :
 	- comment 
 	- recent posts
 
-contact
+accounts
 home 
 
 
